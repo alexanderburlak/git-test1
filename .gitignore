@@ -1,0 +1,5 @@
+# no log files
+*.log
+
+# I want track error log files
+!error.log
