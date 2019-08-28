@@ -13,10 +13,5 @@ Don't look back
 Odin's sons
 Attack!
 
-
-
-Master branch commit
-+
-Feature branch commit
-commit in the song.txt
+all other lines were removed
 
