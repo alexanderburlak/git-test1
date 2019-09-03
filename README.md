@@ -1,2 +1,3 @@
 # git-demo
-some updates in master branch
+resolved confilct while merge repositories
+
